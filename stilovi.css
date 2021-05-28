@@ -1,0 +1,81 @@
+body {background-image: url(tt.jpg);
+		color:black;
+		margin:0px;
+		padding:0px;
+}
+h1 {color:red;
+}
+h2 {color:#FF0000;}
+hr {color:#CDC1C5;
+	size:10px;
+}
+
+tr {background-color:white;}
+table {border-spacing:10px;
+}
+
+.crvena {border: 10px solid red;
+}
+
+.pretrazivac{
+	position:center;
+	
+}
+input{border: 5px solid orange;
+}
+
+a {color:black;
+	text-decoration:none;}
+	
+
+.prvastrana {
+	
+	background-image: url(pp.jpg);
+	height:1000px;
+
+}
+.zag{width:100%;
+	margin:auto;
+	text-align:center;
+	font-size:30pt;
+	}
+.podebljano{font-style:weight;}
+.sredina {margin:auto; 
+margin-top:20px;
+		width:50%;
+		font-size:30pt;
+		background-color:#F9BC73 ;
+		border: 3px solid black;
+		
+}
+
+.okvir {border: 3px solid black;
+		box-shadow:10px 5px 5px black;}
+.senka{text-shadow:2px 4px 5px black;}
+.naslovi {font-size:50pt;
+text-align:center;}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+ul li {
+  float: left;
+}
+
+ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: #111111;
+}
